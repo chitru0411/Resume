@@ -1,0 +1,115 @@
+.c{
+    height: 150px;
+
+}
+body{
+    margin: 0px;
+    background-image: url(resumetheme.jpg);
+}
+.h{
+    float: left;
+    width: 30%;
+}   
+img{
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.i{
+    width: 70%;
+    float: right;
+}
+.i>h1{
+    margin: 0px;
+    color: black;
+    padding-left: 10px;
+}
+.i>hr{
+    margin: 0px;
+}
+.i>h3{
+    padding-left: 10px;
+    margin: 0px;
+    color: black;
+}
+.i>p{
+    margin: 0px;
+    padding-left: 10px;
+    color:black;
+  padding-bottom: 5px;
+}
+.a{
+    height: 300px;
+    padding-bottom: 20px;
+}
+.t{
+    float: left;
+    width: 30%;
+}
+.r{
+    float: right;
+    width: 70%;
+}
+#head{
+    margin: 0px;
+}
+#l{
+    margin: 0px;
+}
+.u{
+    margin: 0px;
+   display: inline;
+}
+.z{
+    float: left;
+    width: 20%;
+}
+.y{
+    float: right;
+    width: 70%;
+}
+.y>h2{
+    margin: 0px;
+    padding-top: 15px;
+
+}
+.y>h3{
+    margin: 0px;
+}
+.x{
+    height: 300px;
+    padding-bottom: 50px;
+}
+.m{
+    height: 400px;
+    padding-bottom: 50px;
+}
+.n{
+    float: left;
+    width: 20%;
+}
+.o{
+    float: right;
+    width: 70%;
+}
+.n>h3{
+    margin: 0px;
+}
+.n>h4{
+    margin: 0px;
+}
+.o>h3{
+    margin: 0px;
+}
+.o>h4{
+    margin: 0px;
+}
+.o>h2{
+    padding-top: 15px;
+}
+.k{
+   margin: 0px;
+   float: right;
+  
+}
