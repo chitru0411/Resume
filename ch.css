@@ -19,6 +19,7 @@ img{
 .i{
     width: 70%;
     float: right;
+    background-color:black;
 }
 .i>h1{
     margin: 0px;
